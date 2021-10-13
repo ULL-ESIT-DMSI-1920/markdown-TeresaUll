@@ -46,23 +46,33 @@ Para añadir enlaces y que se muestren con las palabras que nosotros escojamos d
 ## 4. Imágenes
 
 Las imágenes funcionan de forma similar a los enlaces, pero estos ahora irán precedidos de una exclamación. Además, del mismo modo que con los enlaces, también podemos hacer enlaces referenciales creando variables que apunten al link.
+
+
 ![Imagen1](https://kesslermuseum.com/wp-content/uploads/2019/05/Banner.-Almendro.jpg)
 
-## 5.
+## 5. Listas
+
+Para añadir una lista en Markdown debemos añadir asteriscos en caso de listas no ordenadas y numerar cuando queramos que sean ordenadas. Para identar debemos añadir un espacio delante del asterisco o número.
+
+* Elemento1
+* Elemento2
+    * Elemento3 identado
+
+1. Artículo1
+2. Artículo2
+    3. Artículo3 identado
+
+
+## 6. Párrafos
+Para hacer saltos de línea es necesario añadir espacios al final de cuando queramos que se cambie de línea, de lo contrario seguirá en la misma línea aunque cambiemos de línea en el editor.
+
+Vamos a hacer un cambio de línea.  
+Esto es otra línea.
 
 
 
 
 
-pinta(x,y)
-pinta(x,y,color)
-major.minor.patch
-minor: nueva funcionalidad pero es compatible con la version anterior
-patch: bugs, documentación, etc.
-major: nuevas funcionalidades que no son compatibles con la versión anterior
 
-git status 
-git branch 
-git branch all 
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5793278&assignment_repo_type=AssignmentRepo)
